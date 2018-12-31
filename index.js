@@ -5,7 +5,7 @@ const fs = require('fs');
 
 
 const bot = new SlackBot({
-    token: 'xoxb-448085800134-512952429858-zKGde43WhMxnEW8jrma0I946',
+    token: 'xoxb-###########################################',
     name: 'SnackBot'
 });
 
